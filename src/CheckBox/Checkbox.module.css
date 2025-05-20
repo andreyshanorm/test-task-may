@@ -1,0 +1,20 @@
+.checkbox-block{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    
+}
+
+.checkbox-block, .checkbox-block label {
+    cursor: pointer;
+}
+
+.big{
+    width: 25px;
+    height: 25px;
+}
+
+.small{
+    width: 15px;
+    height: 15px;
+}
